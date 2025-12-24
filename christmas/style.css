@@ -35,8 +35,8 @@
   grid-column: 1/4;
   align-self: center;
   justify-self: center;
-  font-size: 2rem;
-  font-weight: 500;
+  font-size: 1rem;
+  font-weight: 100;
 }
 
 .fox {
