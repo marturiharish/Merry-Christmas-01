@@ -27,6 +27,17 @@
   font-size: 6rem;
   font-weight: 1000;
 }
+.merryrev {
+  color: #c84257;
+  font-family: "Mountains of Christmas";
+  text-align: center;
+  grid-row: 1;
+  grid-column: 1/4;
+  align-self: center;
+  justify-self: center;
+  font-size: 6rem;
+  font-weight: 1000;
+}
 
 .fox {
   grid-column: 3;
